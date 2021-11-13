@@ -1,0 +1,3 @@
+Number of Non Conflicting activities: 3
+Job id for maximum profit :
+1 3 5 git
